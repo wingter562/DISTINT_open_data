@@ -10,3 +10,9 @@ The collection of open-source datasets created by the DISTINT group, JNU
 A derived Question-answering dataset. Each question has multiple homologous questions that share the same entity but differ in logic. This dataset can be used for evaluating Language models, retrieval algorithms, and RAG systems in terms of output consistency and knowledge multiplexing.
 
 **Portal**: https://github.com/wingter562/homologous-QA-dataset
+
+
+## Dataset III: AI Services Container Runtime Profiling Dataset (AISCoRP)
+Reproducible measurements of the invocation latency of AI Services Docker Containers, including cold starts and runtime behavior, under various resource specifications and input scales. It provides A dataset of latency measurements for popular AI service containers (with deep models at the core) and Scripts for systematically profiling containerized ML workloads. 
+
+**Portal**: https://github.com/wingter562/AI-container-runtime-profiles-dataset
