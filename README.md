@@ -16,3 +16,14 @@ A derived Question-answering dataset. Each question has multiple homologous ques
 Reproducible measurements of the operational characteristics of Inference-Serving Containers, including cold starts and runtime behavior, under various resource specifications and input scales. It provides A dataset of **latency** (and power, partially) measurements for popular AI service containers (with deep models at the core) and **Scripts** for systematically profiling containerized ML workloads. 
 
 **Portal**: https://github.com/wingter562/AI-container-runtime-profiles-dataset
+
+## Dataset IV: Imprecise Label Learning datasets of Medical Imaging (ILLMed)
+This repo contains medical imaging datasets annotated with imprecise labels by multiple experts, suitable for benchmarking and research in partial label learning, multi-label learning, semi-supervised learning, etc. 
+
+**Portal**: https://github.com/wingter562/imprecise-label-learning-datasets
+
+
+## Dataset V: Edge-based Federated Learning Simulator (EdgeFLSim)
+A simulator of edge-based Federated Learning system with simple UI and built-in edge-device performance models.
+
+**Portal**: https://github.com/wingter562/EdgeFLSim
