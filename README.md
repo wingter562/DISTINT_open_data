@@ -27,3 +27,8 @@ This repo contains medical imaging datasets annotated with imprecise labels by m
 A simulator of edge-based Federated Learning system with simple UI and built-in edge-device performance models.
 
 **Portal**: https://github.com/wingter562/EdgeFLSim
+
+## Dataset VI: Knowledge Graph extracted from short sentences in medical domain (ShortMedKG)
+A text-to-graph automatic Knowledge Graph (KG) construction pipeline for Chinese medical corpora, along with an out-of-the-box Knowledge Graph (KG) built for daily medical QA.
+
+**Portal**: https://github.com/wingter562/ShortMedKG
