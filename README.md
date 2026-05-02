@@ -32,3 +32,8 @@ A simulator of edge-based Federated Learning system with simple UI and built-in 
 A text-to-graph automatic Knowledge Graph (KG) construction pipeline for Chinese medical corpora, along with an out-of-the-box Knowledge Graph (KG) built for daily medical QA.
 
 **Portal**: https://github.com/wingter562/ShortMedKG
+
+## Dataset VII: A parallel dataset of source codes and corresponding LLM-generated codes in pairs (CodeTwin)
+A code dataset that contains contrastive samples of human-written code and AI-written code with similar intention.
+
+**Portal**: https://github.com/wingter562/CodeTwin
